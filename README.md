@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @masoomjethwa , I work in computational simulations and space based observations
-- 👀 I’m interested in learning and applying new ideas to acquire insights from the data
+- 👋 Hi, I’m @masoomjethwa , my research area is planetary science. modelling the interacrtion of ionosphere and neutral atmospheric processess 
+- 👀 I’m interested in learning and applying new ideas to acquire insights from the space based observations.
 - 🌱 I’m currently learning MATLAB and Python
 - 💞️ I’m looking to collaborate on Python3.7 and MPI
 - 📫 How to reach me @masoomjethwa :twitter
