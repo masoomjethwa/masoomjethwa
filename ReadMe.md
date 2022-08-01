@@ -10,20 +10,21 @@ In 2021, I started learning High Performance Computing and Automation using pyth
 Recently, I got started with my own models and with an ambition to make a difference, myself.
 
 
-👀 I’m interested in learning and applying new ideas to acquire insights from the space based observations.
-🌱 I’m currently scripting in MATLAB and Python(2&3). 
-💞️ I’m looking to collaborate on parallel processing on MATLAB/Python.
-🌱 I’ve keen interest in development of algorithms to study physical processess.
-🎸 Outside research world too, I enjoy myself to develop new skills. My hobbies range from Chess,  Photography, sketching, and poetry writing.
-📚 I also love reading books on skill development & financial literacy. 
-✈️ I love traveling too.
+- 👀 I’m interested in learning and applying new ideas to acquire insights from the space based observations.
+- 🌱 I’m currently scripting in MATLAB and Python(2&3). 
+- 💞️ I’m looking to collaborate on parallel processing on MATLAB/Python.
+- 🌱 I’ve keen interest in development of algorithms to study physical processess.
+- 🎸 Outside research world too, I enjoy myself to develop new skills. My hobbies range from Chess,  Photography, sketching, and poetry writing.
+- 📚 I also love reading books on skill development & financial literacy. 
+- ✈️ I love traveling too.
 
 
 🛠️ Skills
-[MATLAB] [Python] [MS-Excel] [Proofreading] 
+
+- [MATLAB] [Python] [MS-Excel] [Proofreading] 
 
 🖥️ Workspace Setup
-i5-6th-gen gtx-1060 Windows7 Aanconda
+- i5-6th-gen gtx-1060 Windows7 Aanconda
 
 
 <!---
