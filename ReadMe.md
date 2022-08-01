@@ -1,6 +1,5 @@
-Hi, I’m Masoom, ![image](https://user-images.githubusercontent.com/75061128/182075437-8f4454a4-40ac-4053-bbf2-244fa4f6d281.png)
-🎓 
-I am Planetary science Researcher, Opensource advocate and Python enthusiast. 
+Hi, I’m Masoom, 
+- 🎓 I am Planetary science Researcher, Opensource advocate and Python enthusiast. 
 I completed my PhD in Planetary Atmopspheres and I am looking for further research opportunities.
 
 👨‍💻 I enjoy python coding to contribute solutions to atmospehric science community, and keen to learn new data analysis
