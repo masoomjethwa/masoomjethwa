@@ -20,16 +20,12 @@ Recently, I got started with my own models and with an ambition to make a differ
 
 🛠️ Skills
 
-- [MATLAB]
-- [[Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)] 
-- [[MS-Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)] 
+- [MATLAB] [Python] [MS-Office] 
 
 🖥️ Workspace Setup
 
 - i5-6th-gen gtx-1060 Windows7 Aanconda
-- https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white
-- https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-- https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white
+
 
 
 <!---
