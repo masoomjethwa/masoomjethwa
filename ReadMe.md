@@ -26,8 +26,6 @@ Recently, I got started with my own models and with an ambition to make a differ
 i5-6th-gen gtx-1060 Windows7 Aanconda
 
 
-- 📫 How to reach me  [twitter](www.twitter.com/masoomjethwa) [instagram](www.instagram.com/masoomjethwa) 
-![github](https://github.com/masoomjethwa/masoomjethwa/blob/main/ReadMe.md)
 <!---
 masoomjethwa/masoomjethwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
