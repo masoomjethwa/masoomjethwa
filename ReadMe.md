@@ -26,7 +26,7 @@ Recently, I got started with my own models and with an ambition to make a differ
 i5-6th-gen gtx-1060 Windows7 Aanconda
 
 
-- 📫 How to reach me  #1DA1F2 #E4405F @masoomjethwa 
+- 📫 How to reach me  [#1DA1F2](www.twitter.com/masoomjethwa)  [#E4405F](www.twitter.com/masoomjethwa) 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 <!---
