@@ -5,7 +5,7 @@ Hi, I’m Masoom,
 
 
 - 🎓 I am Planetary science Researcher, Opensource advocate and Python enthusiast. 
-I completed my PhD in Planetary Atmopspheres and I am looking for further research opportunities.
+I completed my PhD in Planetary Atmospheres and I am looking for further research opportunities.
 
 - 👨‍💻 I enjoy python coding to contribute solutions to atmospehric science community, and keen to learn new data analysis
 and visulaisation methods for upcoming sace missions. 
