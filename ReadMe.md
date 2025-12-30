@@ -50,7 +50,6 @@ missions to be transformed into **validated, publication-ready scientific insigh
 - 🌱 **Learning:** GPU acceleration for atmospheric and radiative-transfer models  
 - 👯 **Collaboration:** Open science, mission data analysis, scientific software  
 - 💬 **Ask me about:** Python for astronomy, HPC, numerical modeling  
-- 📫 **Contact:** `connectmpj@gmail.com`
 
 ---
 
@@ -82,10 +81,10 @@ machine learning.
 - Research-to-production workflows  
 
 **Technical Stack**
-- Python, C/C++, Fortran, Julia  
-- NumPy, SciPy, Astropy, xarray  
-- PyTorch, TensorFlow, scikit-learn  
-- MPI, OpenMP, SLURM, Docker, Linux  
+- Python, C/C++, Fortran, Go  
+- NumPy, SciPy, Astropy, xarray, Geopandas
+- PyTorch, TensorFlow, scikit-learn, QGIS
+- MPI, OpenMP, Linux  
 
 ---
 
@@ -125,8 +124,8 @@ Matplotlib • Seaborn • Plotly • ParaView
 ## 📚 Scholarly & Professional Profiles
 
 - 🌐 Website: https://masoomjethwa.github.io  
-- 📄 Google Scholar: *(add link)*  
-- 🧠 ORCID: *(add ID)*  
+- 📄 Google Scholar: https://scholar.google.com/citations?hl=en&tzom=-330&user=KMDIbVwAAAAJ
+- 🧠 ORCID: https://orcid.org/0000-0003-0338-9464
 - 💼 LinkedIn: https://linkedin.com/in/masoomjethwa  
 
 ---
