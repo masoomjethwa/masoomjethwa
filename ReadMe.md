@@ -4,7 +4,7 @@
 <div align="center">
 
   <h1>Hi there, I'm Dr. Masoom Jethwa 👋</h1>
-  <h3>Planetary Scientist | Computational Physicist | Scientific Software Architect 🪐</h3>
+  <h3>Planetary Scientist | Computational Physicist | Open Source Advocate 🪐</h3>
 
   <p>
     <em>
@@ -72,7 +72,7 @@ machine learning.
 
 ---
 
-## 🎯 For Recruiters & Industry Collaborators
+## 🎯 For Academia - Industry  Collaborators
 
 **Core Strengths**
 - Scientific software engineering  
