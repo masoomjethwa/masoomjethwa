@@ -1,54 +1,159 @@
-Hi, I’m Masoom, 
+<!-- ========================= -->
+<!-- Hero Section -->
+<!-- ========================= -->
+<div align="center">
+  <img src="https://github.com/masoomjethwa.png" width="150" height="150"
+       style="border-radius: 50%; border: 4px solid #58a6ff;" />
 
+  <h1>Dr. Masoom Jethwa 👋</h1>
+  <h3>Planetary Scientist | Computational Physicist | Scientific Software Architect 🪐</h3>
 
-🚀 About Me
+  <p>
+    <em>
+      High-performance, reproducible computational science for planetary atmospheres,
+      space missions, and exoplanets.
+    </em>
+  </p>
 
+  <img src="https://komarev.com/ghpvc/?username=masoomjethwa&label=Profile%20Views&color=0e75b6&style=flat" />
 
-- 🎓 I am Planetary science Researcher, Opensource advocate and Python enthusiast. 
-I completed my PhD in Planetary Atmospheres and I am looking for further research opportunities.
+  <br/>
 
-- 👨‍💻 I enjoy python coding to contribute solutions to atmospehric science community, and keen to learn new data analysis
-and visulaisation methods for upcoming sace missions. 
-I am really enthusiastic about learning new computational methods for reanalysis of older datasets.
-In 2021, I started learning High Performance Computing and Automation using python.
-Recently, I got started with my own models and with an ambition to make a difference, myself.
+  <a href="https://linkedin.com/in/masoomjethwa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://x.com/masoomjethwa">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" />
+  </a>
+  <a href="https://medium.com/@masoomjethwa">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium" />
+  </a>
+  <a href="https://masoomjethwa.github.io">
+    <img src="https://img.shields.io/badge/Website-2ea44f?style=for-the-badge&logo=github" />
+  </a>
+</div>
 
+---
 
-- 👀 I’m interested in learning and applying new ideas to acquire insights from the space based observations.
-- 🌱 I’m currently scripting in MATLAB and Python(2&3). 
-- 💞️ I’m looking to collaborate on parallel processing on MATLAB/Python.
-- 🌱 I’ve keen interest in development of algorithms to study physical processess.
-- 🎸 Outside research world too, I enjoy myself to develop new skills. My hobbies range from Chess,  Photography, sketching, and poetry writing.
-- 📚 I also love reading books on skill development & financial literacy. 
-- ✈️ I love traveling too.
+## 🚀 Professional & Research Summary
 
+I am a **Planetary Scientist and Computational Physicist** specializing in the
+**development of reproducible, high-performance scientific software** for
+planetary atmospheres, airglow emissions, space weather, and exoplanet research.
 
-🛠️ Skills
+My work sits at the intersection of:
 
-- [MATLAB] [Python] [MS-Office] 
+- Planetary & space physics  
+- Mission-scale data analysis  
+- Numerical modeling & HPC  
+- Machine learning for physical sciences  
+- Open, reusable, and citable research software  
 
-🖥️ Workspace Setup
+I design **end-to-end scientific pipelines** that transform raw mission telemetry
+into validated, publication-ready scientific insight.
 
-- i5-6th-gen gtx-1060 Windows7 Aanconda
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/masoomjethwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="masoomjethwa" height="30" width="40" /></a>
-<a href="https://twitter.com/masoomjethwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masoomjethwa" height="30" width="40" /></a>
-<a href="https://instagram.com/masoomjethwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="masoomjethwa" height="30" width="40" /></a>
-<a href="https://medium.com/@masoomjethwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@masoomjethwa" height="30" width="40" /></a>
+## 🎯 For Recruiters & Industry Collaborators
+
+**Core Competencies**
+- Scientific software engineering
+- Large-scale data pipelines
+- AI/ML for physical sciences
+- High-performance computing (HPC)
+- Research-to-production workflows
+
+**Technical Strengths**
+- Python, C/C++, Fortran, Julia
+- NumPy, SciPy, Astropy, xarray
+- PyTorch, TensorFlow, scikit-learn
+- MPI, OpenMP, SLURM, Linux, Docker
+
+📫 **Contact:** `connectmpj@gmail.com`
+
+---
+
+## 🔬 For Researchers, Reviewers & Grant Panels
+
+### Research Domains
+- 🌌 Upper-atmospheric emissions (airglow & aurora)
+- 🪐 Planetary & exoplanet atmospheres
+- 🛰️ Space-mission data analysis (NASA, ESA, ISRO, JAXA)
+- 💻 Computational & data-driven astrophysics
+
+### Methodology
+- Physics-based numerical modeling
+- Statistical inference & uncertainty quantification
+- Machine-learning–augmented analysis
+- Fully reproducible, open-science workflows
+
+---
+
+## 🧪 Research Software Philosophy (Paper-Ready Code)
+
+All repositories are developed with:
+- 📄 **Journal reproducibility standards**
+- 📦 Modular, documented architecture
+- 🧪 Validation & benchmarking
+- 🔁 Workflow automation
+- 📚 Citation-ready structure (Zenodo/DOI compatible)
+
+> My GitHub is intended to function as a **computational methods supplement** to
+> peer-reviewed publications and funded research proposals.
+
+---
+
+## 🛠️ Core Toolchain
+
+**Languages**
+- Python • Fortran • C/C++ • Julia • Bash
+
+**Scientific Stack**
+- Astropy • NumPy • SciPy • xarray • Pandas
+
+**AI / ML**
+- PyTorch • TensorFlow • Scikit-learn
+
+**HPC & DevOps**
+- MPI • OpenMP • SLURM • Docker • Git • Linux
+
+**Visualization**
+- Matplotlib • Seaborn • Plotly • Paraview
+
+---
+
+## 📚 Scholarly & Professional Profiles
+
+- 🌐 Website: https://masoomjethwa.github.io  
+- 📄 Google Scholar: *(add link)*  
+- 🧠 ORCID: *(add ID)*  
+- 💼 LinkedIn: https://linkedin.com/in/masoomjethwa  
+
+---
+
+## 📊 GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=masoomjethwa&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoomjethwa&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/masoomjethwa/masoomjethwa/output/github-contribution-grid-snake.svg" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masoomjethwa&show_icons=true&locale=en" alt="masoomjethwa" /></p>
+---
 
+## 🤝 Collaboration & Funding Alignment
 
+I welcome collaborations related to:
+- Space missions & instrument teams
+- Open science infrastructure
+- Reproducible computational research
+- Grant-funded scientific software
 
-<!---
-masoomjethwa/masoomjethwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 **Email:** `connectmpj@gmail.com`
