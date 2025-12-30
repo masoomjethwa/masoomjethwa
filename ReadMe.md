@@ -2,10 +2,6 @@
 <!-- Hero Section -->
 <!-- ========================= -->
 <div align="center">
-  <img src="https://github.com/masoomjethwa.png"
-       width="150" height="150"
-       style="border-radius: 50%; border: 4px solid #58a6ff;"
-       alt="Dr. Masoom Jethwa" />
 
   <h1>Hi there, I'm Dr. Masoom Jethwa 👋</h1>
   <h3>Planetary Scientist | Computational Physicist | Scientific Software Architect 🪐</h3>
@@ -42,19 +38,18 @@
 
 ## 🚀 About Me
 
-I am a **Planetary Scientist and Computational Physicist** focused on building
-**high-performance, reproducible computational workflows** for planetary
+I am a **Planetary Scientist and Computational Physicist** focused on building  
+**high-performance, reproducible computational workflows** for planetary  
 atmospheres, airglow emissions, space weather, and exoplanet research.
 
-My work bridges **theoretical astrophysics**, **mission-scale data analysis**, and
-**production-quality scientific software**, enabling raw telemetry from space
+My work bridges **theoretical astrophysics**, **mission-scale data analysis**, and  
+**production-quality scientific software**, enabling raw telemetry from space  
 missions to be transformed into **validated, publication-ready scientific insight**.
 
 - 🔭 **Current work:** Automated airglow analysis pipelines & AI for exoplanets  
 - 🌱 **Learning:** GPU acceleration for atmospheric and radiative-transfer models  
 - 👯 **Collaboration:** Open science, mission data analysis, scientific software  
-- 💬 **Ask me about:** Python for astronomy, HPC, numerical modeling  
-- 📫 **Contact:** `connectmpj@gmail.com`
+- 💬 **Ask me about:** Python for astronomy, HPC, numerical modeling 
 
 ---
 
@@ -64,14 +59,14 @@ missions to be transformed into **validated, publication-ready scientific insigh
 Physics of upper-atmospheric emissions using space- and ground-based observations.
 
 ### 🪐 Planetary & Exoplanetary Science  
-Modeling planetary atmospheres, chemistry, and dynamics across the Solar System
+Modeling planetary atmospheres, chemistry, and dynamics across the Solar System  
 and exoplanetary systems.
 
 ### 🛰️ Mission Data Science  
 Algorithm-driven analysis of **NASA, ESA, ISRO, and JAXA** mission datasets.
 
 ### 💻 Computational & Data-Driven Astrophysics  
-High-performance workflows combining numerical methods, visualization, and
+High-performance workflows combining numerical methods, visualization, and  
 machine learning.
 
 ---
@@ -79,17 +74,17 @@ machine learning.
 ## 🎯 For Recruiters & Industry Collaborators
 
 **Core Strengths**
-- Scientific software engineering
-- Data-intensive pipelines
-- AI/ML for physical sciences
-- High-performance computing (HPC)
-- Research-to-production workflows
+- Scientific software engineering  
+- Data-intensive pipelines  
+- AI/ML for physical sciences  
+- High-performance computing (HPC)  
+- Research-to-production workflows  
 
 **Technical Stack**
-- Python, C/C++, Fortran, Julia
-- NumPy, SciPy, Astropy, xarray
-- PyTorch, TensorFlow, scikit-learn
-- MPI, OpenMP, SLURM, Docker, Linux
+- Python, C/C++, Fortran, Julia  
+- NumPy, SciPy, Astropy, xarray  
+- PyTorch, TensorFlow, scikit-learn  
+- MPI, OpenMP, SLURM, Docker, Linux  
 
 ---
 
@@ -100,9 +95,9 @@ All repositories are developed with:
 - 📦 Modular, documented architectures  
 - 🧪 Validation and benchmarking  
 - 🔁 Automated workflows  
-- 📚 Citation-ready structure (Zenodo/DOI compatible)
+- 📚 Citation-ready structure (Zenodo/DOI compatible)  
 
-> This GitHub profile is intended to serve as a **computational methods
+> This GitHub profile is intended to serve as a **computational methods  
 > supplement** to peer-reviewed publications and funded research proposals.
 
 ---
@@ -129,13 +124,16 @@ Matplotlib • Seaborn • Plotly • ParaView
 ## 📚 Scholarly & Professional Profiles
 
 - 🌐 Website: https://masoomjethwa.github.io  
-- 📄 Google Scholar: *(add link)*  
-- 🧠 ORCID: *(add ID)*  
+- 📄 Google Scholar: https://scholar.google.com/citations?hl=en&tzom=-330&user=KMDIbVwAAAAJ
+- 🧠 ORCID: https://orcid.org/0000-0003-0338-9464
 - 💼 LinkedIn: https://linkedin.com/in/masoomjethwa  
 
 ---
 
 ## 📊 GitHub Statistics & Activity
+
+> *The statistics below reflect active development of reproducible research  
+> software and long-term maintenance of scientific codebases.*
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=masoomjethwa&show_icons=true&theme=radical&hide_border=true&count_private=true" />
