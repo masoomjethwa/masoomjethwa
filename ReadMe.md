@@ -49,7 +49,8 @@ missions to be transformed into **validated, publication-ready scientific insigh
 - 🔭 **Current work:** Automated airglow analysis pipelines & AI for exoplanets  
 - 🌱 **Learning:** GPU acceleration for atmospheric and radiative-transfer models  
 - 👯 **Collaboration:** Open science, mission data analysis, scientific software  
-- 💬 **Ask me about:** Python for astronomy, HPC, numerical modeling 
+- 💬 **Ask me about:** Python for astronomy, HPC, numerical modeling  
+- 📫 **Contact:** `connectmpj@gmail.com`
 
 ---
 
@@ -124,40 +125,9 @@ Matplotlib • Seaborn • Plotly • ParaView
 ## 📚 Scholarly & Professional Profiles
 
 - 🌐 Website: https://masoomjethwa.github.io  
-- 📄 Google Scholar: https://scholar.google.com/citations?hl=en&tzom=-330&user=KMDIbVwAAAAJ
-- 🧠 ORCID: https://orcid.org/0000-0003-0338-9464
+- 📄 Google Scholar: *(add link)*  
+- 🧠 ORCID: *(add ID)*  
 - 💼 LinkedIn: https://linkedin.com/in/masoomjethwa  
-
----
-
-## 📊 GitHub Statistics & Activity
-
-> *The statistics below reflect active development of reproducible research  
-> software and long-term maintenance of scientific codebases.*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masoomjethwa&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoomjethwa&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=masoomjethwa&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/masoomjethwa/masoomjethwa/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/masoomjethwa/masoomjethwa/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation"
-         src="https://raw.githubusercontent.com/masoomjethwa/masoomjethwa/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ---
 
