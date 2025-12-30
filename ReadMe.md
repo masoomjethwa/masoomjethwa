@@ -83,7 +83,7 @@ machine learning.
 **Technical Stack**
 - Python, C/C++, Fortran, Go  
 - NumPy, SciPy, Astropy, xarray, Geopandas
-- PyTorch, TensorFlow, scikit-learn, QGIS
+- PyTorch, TensorFlow, scikit-learn
 - MPI, OpenMP, Linux  
 
 ---
