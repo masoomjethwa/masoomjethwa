@@ -40,7 +40,8 @@
 
 I am a **Planetary Scientist and Computational Physicist** focused on building  
 **high-performance, reproducible computational workflows** for planetary  
-atmospheres, airglow emissions, space weather, and exoplanet research. I lead Astronomy Lab, at VASCSC.
+atmospheres, airglow emissions, space weather, and exoplanet research. 
+I lead Astronomy Lab, at VASCSC.
 
 My work bridges **theoretical astrophysics**, **mission-scale data analysis**, and  
 **production-quality scientific software**, enabling raw telemetry from space  
